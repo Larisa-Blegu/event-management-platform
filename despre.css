@@ -1,0 +1,87 @@
+html, body {
+    height: 100%;
+}
+body{
+    background-image:url('imgfundal.jpg');
+    background-size: 100% 100%;
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    overflow: hidden;
+}
+h1{
+    font-family:Cambria;
+    font-size: 35px;
+    text-shadow: 2px 2px pink;
+    text-align: center;
+}
+h2{
+    font-family:Cambria;
+    font-size: 20px;
+    text-decoration: wavy;
+    text-align: center;
+    margin-top: -20px;
+}
+p{
+    text-align: center;
+    font-family: Cambria;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.topnav
+{
+padding-top:15px;
+padding-bottom:15px;
+overflow: hidden;
+text-align:center;
+width:70%;
+background-color:peachpuff;
+margin:auto;
+}
+
+.topnav a
+{
+padding:50px;
+color: #f2f2f2;
+text-align:center;
+text-decoration:none;
+color:black;
+font-size: 18px;
+font-weight: bold;
+}
+
+a:hover{
+transition:0.7s;
+color:darkred}
+
+img{
+    width: 400px; 
+    
+}
+
+
+#adresa, #data{
+    text-align: right;
+    font-family: Cambria;
+    font-size: 15px;
+    font-style: normal;
+}
+
+.btn_apelare{
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    background-color: #F9C; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+.btn_apelare:hover {
+    background-color: #F39; 
+}
+
+

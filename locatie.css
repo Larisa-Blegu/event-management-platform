@@ -1,0 +1,18 @@
+h2 {
+    font-family: Cambria;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+body{
+    background-image: url('imgfundal.jpg');
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: repeat; 
+    height: 100vh; 
+    margin: 0;
+    padding: 0; 
+}

@@ -1,0 +1,20 @@
+.speaker-box {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+body{
+    background-image: url('imgfundal.jpg');
+    background-size: 100% 200%;
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0; 
+    padding: 0; 
+}

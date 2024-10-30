@@ -1,0 +1,34 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fddede;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        .agenda {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .event {
+            padding: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .time {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            font-size: 16px;
+            color: #555;
+            font-weight: bold;
+        }
