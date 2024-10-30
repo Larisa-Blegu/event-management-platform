@@ -44,7 +44,7 @@
         </div>
 
     <?php
-    $sendgridApiKey = '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';
+    $sendgridApiKey = '';
 
     if (isset($_POST['submit'])) {
 
